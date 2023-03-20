@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.Form1.resources
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.Properties.Resources.resources
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\singelTon\singelTon\bin\Debug\singelTon.exe.config
+C:\Users\user\Desktop\c#\singelTon\singelTon\bin\Debug\singelTon.exe
+C:\Users\user\Desktop\c#\singelTon\singelTon\bin\Debug\singelTon.pdb
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.exe
+C:\Users\user\Desktop\c#\singelTon\singelTon\obj\Debug\singelTon.pdb
